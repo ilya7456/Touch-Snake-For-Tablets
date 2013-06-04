@@ -1,3 +1,17 @@
+/* 
+Original Tutorial:
+	https://github.com/sebleedelisle/JSTouchController
+	Copyright (c)2010-2011, Seb Lee-Delisle, sebleedelisle.com
+	All rights reserved.
+	
+Controls:
+- Swipe
+
+*/
+
+
+
+
 var canvas; //canvas
 var ctx; //context
 var touchable = 'createTouch' in document; //check of the touch screen
