@@ -3,6 +3,12 @@ Touch-Snake-For-Tablets
 
 HTML5 Snake Game written on the ipad using Textastic app.
 
+#Warning:
+___________
+The game has only been tested on ipad. It might work on other 10 inch tablets. Due to fixed sizes the layout
+will be uncomfortable on a phone or a smaller tablet.
+______________________________________
+
 Controls:
 ----------
 
@@ -17,8 +23,3 @@ Contents:
  * style.css - stylesheet
  * the rest of the files - fonts used in the game
  
-Warning:
------------
-
-The game has only been tested on ipad. It might work on other 10 inch tablets. Due to fixed sizes the layout
-will be uncomfortable on a phone or smaller tablet.
