@@ -23,3 +23,8 @@ Contents:
  * style.css - stylesheet
  * the rest of the files - fonts used in the game
  
+Acknowledgements:
+-------------------
+
+1. Original Tutorial
+   * https://github.com/sebleedelisle/JSTouchController
